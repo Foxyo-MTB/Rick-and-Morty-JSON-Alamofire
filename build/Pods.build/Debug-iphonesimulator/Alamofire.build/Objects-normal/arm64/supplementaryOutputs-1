@@ -1,0 +1,25 @@
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/AlamofireExtended.swift":
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AlamofireExtended.o"
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AlamofireExtended.dia"
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AlamofireExtended.swiftdeps"
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AlamofireExtended.d"
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/AuthenticationInterceptor.swift":
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AuthenticationInterceptor.o"
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AuthenticationInterceptor.swiftdeps"
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AuthenticationInterceptor.d"
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AuthenticationInterceptor.dia"
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/Alamofire.swift":
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Alamofire.d"
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Alamofire.swiftdeps"
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Alamofire.dia"
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Alamofire.o"
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/CachedResponseHandler.swift":
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.dia"
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.swiftdeps"
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.d"
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/CachedResponseHandler.o"
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/AFError.swift":
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AFError.dia"
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AFError.d"
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AFError.swiftdeps"
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/AFError.o"

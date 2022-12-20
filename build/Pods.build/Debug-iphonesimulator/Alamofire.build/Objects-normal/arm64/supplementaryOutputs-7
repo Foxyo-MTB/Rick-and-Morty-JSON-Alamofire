@@ -1,0 +1,20 @@
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/Session.swift":
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Session.o"
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Session.dia"
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Session.d"
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Session.swiftdeps"
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/URLConvertible+URLRequestConvertible.swift":
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLConvertible+URLRequestConvertible.swiftdeps"
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLConvertible+URLRequestConvertible.dia"
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLConvertible+URLRequestConvertible.d"
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/URLConvertible+URLRequestConvertible.o"
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/SessionDelegate.swift":
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/SessionDelegate.swiftdeps"
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/SessionDelegate.dia"
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/SessionDelegate.o"
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/SessionDelegate.d"
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/StringEncoding+Alamofire.swift":
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/StringEncoding+Alamofire.dia"
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/StringEncoding+Alamofire.o"
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/StringEncoding+Alamofire.swiftdeps"
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/StringEncoding+Alamofire.d"

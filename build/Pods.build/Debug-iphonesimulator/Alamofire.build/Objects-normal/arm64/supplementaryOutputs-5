@@ -1,0 +1,20 @@
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/Request.swift":
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Request.o"
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Request.dia"
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Request.swiftdeps"
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Request.d"
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/Response.swift":
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Response.o"
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Response.dia"
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Response.swiftdeps"
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Response.d"
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/RequestTaskMap.swift":
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestTaskMap.swiftdeps"
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestTaskMap.o"
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestTaskMap.d"
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestTaskMap.dia"
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/RequestInterceptor.swift":
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestInterceptor.dia"
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestInterceptor.d"
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestInterceptor.swiftdeps"
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RequestInterceptor.o"

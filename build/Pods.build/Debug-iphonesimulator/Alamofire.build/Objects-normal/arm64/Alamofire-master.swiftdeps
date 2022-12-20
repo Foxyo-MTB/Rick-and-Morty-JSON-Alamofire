@@ -1,0 +1,68 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "d708a7af2cbe4f1caccbf4ff10581529706147b11dc1833429f6012217699a2e"
+build_start_time: [1665752928, 725152015]
+build_end_time: [1665752933, 95566034]
+inputs:
+  "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/AFError.swift": [1664017236, 861926317]
+  "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/Alamofire.swift": [1664017236, 863884925]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/AlamofireExtended.swift"
+  : [1664017236, 862391471]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/AuthenticationInterceptor.swift"
+  : [1664017236, 863602638]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/CachedResponseHandler.swift"
+  : [1664017236, 860912799]
+  "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/Combine.swift": [1664017236, 864636421]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/Concurrency.swift"
+  : [1664017236, 860739231]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift"
+  : [1664017236, 861188888]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/EventMonitor.swift"
+  : [1664017236, 864502906]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/HTTPHeaders.swift"
+  : [1664017236, 864363193]
+  "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/HTTPMethod.swift": [1664017236, 862524032]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/MultipartFormData.swift"
+  : [1664017236, 859726667]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/MultipartUpload.swift"
+  : [1664017236, 862670660]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/NetworkReachabilityManager.swift"
+  : [1664017236, 860034465]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/Notifications.swift"
+  : [1664017236, 863443374]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/OperationQueue+Alamofire.swift"
+  : [1664017236, 860606670]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/ParameterEncoder.swift"
+  : [1664017236, 860191822]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/ParameterEncoding.swift"
+  : [1664017236, 861645221]
+  "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/Protected.swift": [1664017236, 861504793]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/RedirectHandler.swift"
+  : [1664017236, 862110614]
+  "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/Request.swift": [1664017236, 864227771]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/RequestInterceptor.swift"
+  : [1664017236, 859876155]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/RequestTaskMap.swift"
+  : [1664017236, 863129615]
+  "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/Response.swift": [1664017236, 863741874]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/ResponseSerialization.swift"
+  : [1664017236, 864754199]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/Result+Alamofire.swift"
+  : [1664017236, 864073991]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/RetryPolicy.swift"
+  : [1664017236, 861324071]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/ServerTrustEvaluation.swift"
+  : [1664017236, 861783504]
+  "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/Session.swift": [1664017236, 860472202]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/SessionDelegate.swift"
+  : [1664017236, 864868164]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/StringEncoding+Alamofire.swift"
+  : [1664017236, 861050605]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/URLConvertible+URLRequestConvertible.swift"
+  : [1664017236, 862947702]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/URLEncodedFormEncoder.swift"
+  : [1664017236, 862254858]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/URLRequest+Alamofire.swift"
+  : [1664017236, 862811088]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/URLSessionConfiguration+Alamofire.swift"
+  : [1664017236, 860328435]
+  "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/Validation.swift": [1664017236, 863265514]

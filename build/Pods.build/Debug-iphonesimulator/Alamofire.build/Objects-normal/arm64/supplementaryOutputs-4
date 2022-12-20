@@ -1,0 +1,25 @@
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/ParameterEncoder.swift":
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoder.swiftdeps"
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoder.o"
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoder.d"
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoder.dia"
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/ParameterEncoding.swift":
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoding.d"
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoding.dia"
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoding.swiftdeps"
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/ParameterEncoding.o"
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/OperationQueue+Alamofire.swift":
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.d"
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.dia"
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.o"
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/OperationQueue+Alamofire.swiftdeps"
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/Protected.swift":
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Protected.swiftdeps"
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Protected.o"
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Protected.dia"
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/Protected.d"
+"/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/Pods/Alamofire/Source/RedirectHandler.swift":
+  diagnostics: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RedirectHandler.dia"
+  dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RedirectHandler.d"
+  swift-dependencies: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RedirectHandler.swiftdeps"
+  object: "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/build/Pods.build/Debug-iphonesimulator/Alamofire.build/Objects-normal/arm64/RedirectHandler.o"

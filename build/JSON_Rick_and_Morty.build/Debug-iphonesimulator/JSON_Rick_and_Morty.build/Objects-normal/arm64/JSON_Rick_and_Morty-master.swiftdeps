@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.7 (swiftlang-5.7.0.127.4 clang-1400.0.29.50)"
+options: "940b06d6be27bf2b6c3e9001d82efb0bfa8120c0e2a05842a5ecd1bb65732817"
+build_start_time: [1665752933, 109549999]
+build_end_time: [1665752934, 200986]
+inputs:
+  "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/JSON_Rick_and_Morty/AppDelegate.swift": [1663583859, 0]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/JSON_Rick_and_Morty/Controllers/DetailViewController.swift"
+  : [1663765765, 874437808]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/JSON_Rick_and_Morty/Controllers/MainTableViewController.swift"
+  : [1664058085, 985154151]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/JSON_Rick_and_Morty/Controllers/PostTableViewController.swift"
+  : [1664030602, 667118549]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/JSON_Rick_and_Morty/Models/DataManager.swift"
+  : [1664058086, 73909]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/JSON_Rick_and_Morty/Models/DataModel.swift"
+  : [1664018371, 814229249]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/JSON_Rick_and_Morty/Models/PostRequestModel.swift"
+  : [1664029779, 877858877]
+  ? "/Users/foxyo/Documents/X-code projects homework/Homework 11/JSON_Rick_and_Morty_Alamofire/JSON_Rick_and_Morty/SceneDelegate.swift"
+  : [1663583859, 0]

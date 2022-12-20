@@ -1,0 +1,7 @@
+Target dependency graph (3 targets)
+Alamofire in Pods, no dependencies
+Pods-JSON_Rick_and_Morty in Pods, depends on:
+Alamofire in Pods (explicit)
+JSON_Rick_and_Morty in JSON_Rick_and_Morty, depends on:
+Pods-JSON_Rick_and_Morty in Pods (implicit dependency via file 'Pods_JSON_Rick_and_Morty.framework' in build phase 'Link Binary')
+Alamofire in Pods (implicit dependency via options '-framework Alamofire' in build setting 'OTHER_LDFLAGS')
